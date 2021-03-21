@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    justify-content: center;
+    width: 60%;
+    text-align: center;
+    background-color:  maroon;
+    color: white;
+    margin: 100px 150px;
+
+}
+.container table {
+    width: 80%;
+    margin-top: 10px;
+    margin-left: 40px;
+   justify-content: center;
+   align-items: center;
+   
+   border-collapse: collapse;
+}
+.container thead th{
+    margin: 10px;
+    padding: 10px 10px;
+    justify-content: center;
+    border: 1px solid black;
+    background-color: chocolate;
+}
+#table-body  {
+    padding: 12px 12px ;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+   border: 1px solid black;
+}
